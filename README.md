@@ -8,6 +8,12 @@ This project features the design of a Spacer Plate created using Onshape. The Sp
 
 
 
+
+https://cad.onshape.com/documents/298a342a82fe459e36987bd5/w/b09cde6776bca9c4747ed17a/e/573b660e893cee1fff3ccdf9?renderMode=0&uiState=678f1779652b270e4dbd4edf
+
+
+
+
 Spacer Plate Usage
 
 A Spacer Plate is utilized in mechanical assemblies to:
