@@ -1,3 +1,10 @@
+task1: Spacer-Plate
+
+
+
+
+
+
 Spacer-Plate-using-Onshape
 This project features the design of a Spacer Plate created using Onshape. The Spacer Plate is intended for use in mechanical assemblies to provide separation and support between components. 
 
@@ -24,11 +31,19 @@ A Spacer Plate is utilized in mechanical assemblies to:
 -Facilitate Assembly: Simplifies the assembly process by providing a clear guide for positioning parts.
 These plates are commonly found in various applications, including machinery, automotive, and structural systems.
 
-task2 :
+task2 : coffee cup
 
 
 
 ![image](https://github.com/user-attachments/assets/8d4b1d57-f4e7-42d3-b02b-61099d6f6e25)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/ef1cd153-8d30-4adf-9da4-0d30e5334192)
+
 
 
 
