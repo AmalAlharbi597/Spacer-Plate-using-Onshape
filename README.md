@@ -24,6 +24,18 @@ A Spacer Plate is utilized in mechanical assemblies to:
 -Facilitate Assembly: Simplifies the assembly process by providing a clear guide for positioning parts.
 These plates are commonly found in various applications, including machinery, automotive, and structural systems.
 
+task2 :
+
+
+
+![image](https://github.com/user-attachments/assets/8d4b1d57-f4e7-42d3-b02b-61099d6f6e25)
+
+
+
+
+
+https://cad.onshape.com/documents/d7fdb40323f2a348844f42c5/w/188ac7c626d1abfe7d93c68d/e/01ae19853d8f85659a0b7543?renderMode=0&uiState=6790e07987ea8837f847d600
+
 
 
 
